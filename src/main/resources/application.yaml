@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: selenide
+
+selenide:
+  base-url: https://www.w3schools.com
+  browser: chrome
+  browserSize: "1920x1080"
+  headless: false
+  timeout: 8000
